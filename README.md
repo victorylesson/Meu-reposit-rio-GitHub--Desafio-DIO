@@ -2,12 +2,12 @@
 ## Desafio de projeto Git/GitHub da DIO
  Olá! 
  
- Me chamo Victory Lesson e esse é meu primeiro repositório Git/GitHub
+ Me chamo Victory Lesson e esse é meu primeiro repositório Git/GitHub.
  
  
-### Meus Links 
+### Meus Links:
 [LinkedIn](https://www.linkedin.com/in/victory-lesson-75b066240/)
 
 [GitHub](https://github.com/victorylesson)
 
-Contato : victory.mendes@hotmail.com
+Contato: victory.mendes@hotmail.com

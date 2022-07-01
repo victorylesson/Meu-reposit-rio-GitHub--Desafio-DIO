@@ -1,0 +1,8 @@
+Links para downloads: https://code.visualstudio.com/download
+O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
+  
+https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+
+
